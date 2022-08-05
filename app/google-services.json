@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "960968493978",
+    "project_id": "tokyo-rider-358500",
+    "storage_bucket": "tokyo-rider-358500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960968493978:android:cd114367ae1a1df7108823",
+        "android_client_info": {
+          "package_name": "com.rex1997.akb_googlemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960968493978-q72ptcslo8k43q1dnm6b2rqavdir8i0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rex1997.akb_googlemaps",
+            "certificate_hash": "6cd5d31ccc27b35ac7ccbe4872105d48b98cad2e"
+          }
+        },
+        {
+          "client_id": "960968493978-gut46qdetiugm891n0ocgm6b4pr202f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuiZ-VJS8y6aidKuerD82aKtoOcZXrQmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960968493978-gut46qdetiugm891n0ocgm6b4pr202f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960968493978:android:82d967f2b4d643a1108823",
+        "android_client_info": {
+          "package_name": "com.rex1997.akb_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960968493978-gut46qdetiugm891n0ocgm6b4pr202f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuiZ-VJS8y6aidKuerD82aKtoOcZXrQmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960968493978-gut46qdetiugm891n0ocgm6b4pr202f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960968493978:android:b2aaf40fbb7302a7108823",
+        "android_client_info": {
+          "package_name": "om.rex1997.akb_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960968493978-s65ejmaum7hhp8vm4f5h2j7tgmr7drbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "om.rex1997.akb_maps",
+            "certificate_hash": "6cd5d31ccc27b35ac7ccbe4872105d48b98cad2e"
+          }
+        },
+        {
+          "client_id": "960968493978-gut46qdetiugm891n0ocgm6b4pr202f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuiZ-VJS8y6aidKuerD82aKtoOcZXrQmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960968493978-gut46qdetiugm891n0ocgm6b4pr202f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AKB-Maps</string>
+    <string name="title_home">Home</string>
+    <string name="title_maps">Maps</string>
+    <string name="title_profile">Profile</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="nim">10121702</string>
+    <string name="nama">Bina Damareksa</string>
+    <string name="email">binadama1997@gmail.com</string>
+    <string name="kelas">AKB - 7</string>
+</resources>
