@@ -11,6 +11,11 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.rex1997.akb_maps.databinding.FragmentProfileBinding;
 
+/*
+Created at 03/06/2022
+Created by Bina Damareksa (NIM: 10121702; Class: AKB-7)
+*/
+
 public class ProfileFragment extends Fragment {
 
     private FragmentProfileBinding binding;

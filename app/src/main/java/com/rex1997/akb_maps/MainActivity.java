@@ -10,6 +10,11 @@ import androidx.navigation.ui.NavigationUI;
 
 import com.rex1997.akb_maps.databinding.ActivityMainBinding;
 
+/*
+Created at 03/06/2022
+Created by Bina Damareksa (NIM: 10121702; Class: AKB-7)
+*/
+
 public class MainActivity extends AppCompatActivity {
 
     @Override

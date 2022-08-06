@@ -21,6 +21,11 @@ import com.google.firebase.firestore.GeoPoint;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
 import com.rex1997.akb_maps.R;
 
+/*
+Created at 03/06/2022
+Created by Bina Damareksa (NIM: 10121702; Class: AKB-7)
+*/
+
 public class GoogleMapsFragment extends Fragment {
 
     private final static String TAG = "Google Maps API";

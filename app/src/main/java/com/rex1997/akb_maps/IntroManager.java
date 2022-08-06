@@ -3,6 +3,11 @@ package com.rex1997.akb_maps;
 import android.content.Context;
 import android.content.SharedPreferences;
 
+/*
+Created at 03/06/2022
+Created by Bina Damareksa (NIM: 10121702; Class: AKB-7)
+*/
+
 public class IntroManager {
     SharedPreferences pref;
     SharedPreferences.Editor editor;

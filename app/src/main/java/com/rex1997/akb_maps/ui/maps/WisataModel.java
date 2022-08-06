@@ -3,6 +3,11 @@ package com.rex1997.akb_maps.ui.maps;
 import com.google.firebase.firestore.GeoPoint;
 import com.google.gson.annotations.SerializedName;
 
+/*
+Created at 03/06/2022
+Created by Bina Damareksa (NIM: 10121702; Class: AKB-7)
+*/
+
 public class WisataModel {
 
     @SerializedName("name")
@@ -11,14 +16,11 @@ public class WisataModel {
     public String address;
     @SerializedName("geoPoint")
     public GeoPoint geoPoint;
-    @SerializedName("image")
-    public String image;
 
-    public WisataModel(String name, String address, GeoPoint geoPoint, String image) {
+    public WisataModel(String name, String address, GeoPoint geoPoint) {
         this.name = name;
         this.address = address;
         this.geoPoint = geoPoint;
-        this.image = image;
     }
 
     public WisataModel(){
@@ -35,9 +37,5 @@ public class WisataModel {
 
     public GeoPoint getGeoPoint() {
         return geoPoint;
-    }
-
-    public String getImage() {
-        return image;
     }
 }
