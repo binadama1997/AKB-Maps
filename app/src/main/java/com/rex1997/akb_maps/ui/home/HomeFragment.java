@@ -10,8 +10,6 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
 import com.rex1997.akb_maps.databinding.FragmentHomeBinding;
 
 public class HomeFragment extends Fragment {
