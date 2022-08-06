@@ -1,10 +1,5 @@
 package com.rex1997.akb_maps.ui.maps;
 
-import android.media.Image;
-import android.provider.MediaStore;
-
-import com.google.android.gms.common.images.ImageManager;
-import com.google.android.gms.maps.model.LatLng;
 import com.google.firebase.firestore.GeoPoint;
 import com.google.gson.annotations.SerializedName;
 
